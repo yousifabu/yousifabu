@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yousifabu
+- 👋 Hi, I’m Yousif Abuhamdeh
 - 👀 I’m interested in getting better at computer programming
 - 🌱 I’m currently learning how to code and the basics of programming
 - 📫 How to reach me 22abuhamy@alstudent.org
